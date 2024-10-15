@@ -3,7 +3,7 @@ import sys
 from tabulate import tabulate
 
 def scan(ip_range):
-    """Scan the specified IP range for active devices."""
+    """Scanning active devices in the specified IP range"""
     arp = ARP(pdst=ip_range)
     ether = Ether(dst="ff:ff:ff:ff:ff:ff")  # Broadcasting
     packet = ether / arp
@@ -22,12 +22,12 @@ def scan(ip_range):
     return clients
 
 def print_results(clients):
-    """Print the results of the scan in a formatted way."""
+    """Printing response in a tabular form"""
     if clients:
         print("Available devices in the network:")
         print(tabulate(clients, headers="keys", tablefmt="pretty"))
     else:
-        print("No devices found in the specified IP range.")
+        print("No devices found.")
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
