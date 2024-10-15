@@ -1,6 +1,3 @@
-# Network-Ninja
-
-Sure! Here’s the updated README for your repository titled **Network_Ninja**:
 
 # Network_Ninja
 
