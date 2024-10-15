@@ -38,13 +38,13 @@ pip install scapy
 2. Run the script with the desired IP range:
 
    ```bash
-   python3 ip_scanner.py <ip_range>
+   python3 Network_Ninja.py <ip_range>
    ```
 
    Example:
 
    ```bash
-   python3 ip_scanner.py 192.168.1.0/24
+   python3 Network_Ninja.py 192.168.1.0/24
    ```
 
 3. Sit back and let the **Network_Ninja** do its thing! 🎉
