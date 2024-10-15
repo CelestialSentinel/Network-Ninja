@@ -59,8 +59,6 @@ The scanner sends ARP requests across the specified IP range, collecting respons
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests! Whether it’s bug fixes, feature additions, or just some ninja wisdom, all contributions are welcome. Remember, we're all in this together—just like a stealthy clan!
 
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
