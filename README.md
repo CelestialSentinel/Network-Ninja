@@ -48,6 +48,10 @@ pip install scapy
    ```
 
 3. Sit back and let the **Network_Ninja** do its thing! 🎉
+4. Sample output:
+   
+      ![image](https://github.com/user-attachments/assets/d41d71b1-52de-4625-b9f6-da2157e3ab01)
+
 
 ## 🛠️ How It Works
 The scanner sends ARP requests across the specified IP range, collecting responses from active devices. It displays the IP and MAC addresses of those devices, helping you identify who's sharing your network (and possibly your snacks).
