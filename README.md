@@ -13,7 +13,6 @@ Welcome to **Network_Ninja**! This project is your trusty sidekick for uncoverin
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 📖 Introduction
 Ever wondered who's sneaking around on your Wi-Fi? **Network_Ninja** will help you find out! With a playful approach, you can discover the devices connected to your network in no time.
