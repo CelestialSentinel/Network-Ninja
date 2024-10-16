@@ -31,7 +31,7 @@ pip install scapy
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/network_ninja.git
+   git clone https://github.com/CelestialSentinel/network_ninja.git
    cd network_ninja
    ```
 
