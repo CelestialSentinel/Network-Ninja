@@ -62,4 +62,4 @@ Feel free to fork this repository and submit pull requests! Whether it’s bug f
 
 ---
 
-Thanks for checking out **Network_Ninja**! May your network be secure, and your devices be many! If you have any questions or suggestions, feel free to reach out. Happy scanning!
+Thanks for checking out **Network-Ninja**! May your network be secure, and your devices be many! If you have any questions or suggestions, feel free to reach out. Happy scanning!
