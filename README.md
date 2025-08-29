@@ -1,7 +1,7 @@
 
 # Network_Ninja
 
-Welcome to **Network_Ninja**! This project is your trusty sidekick for uncovering the hidden devices on your network, all while adding a touch of stealthy fun!
+Welcome to **Network-Ninja**! This project is your trusty sidekick for uncovering the hidden devices on your network, all while adding a touch of stealthy fun!
 
 ## 📜 Table of Contents
 - [Introduction](#introduction)
